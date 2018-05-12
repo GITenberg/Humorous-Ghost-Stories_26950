@@ -1,0 +1,40 @@
+_repo: Humorous-Ghost-Stories_26950
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Scarborough, Dorothy
+    birthdate: 1878
+    deathdate: 1935
+    gutenberg_agent_id: '5885'
+    url: http://www.gutenberg.org/2009/agents/5885
+    wikipedia: http://en.wikipedia.org/wiki/Dorothy_Scarborough
+description: ''
+gutenberg_issued: '2008-10-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26950'
+  lccn: '21008834'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PN'
+- !lcsh 'Ghost stories'
+tableOfContents: 'Introduction: The humorous ghost -- The Canterville ghost / by Oscar
+  Wilde -- The ghost-extinguisher / by Gelett Burgess -- "Dey ain''t no ghosts" /
+  by Ellis Parker Butler -- The transferred ghost / by Frank R. Stockton -- The mummy''s
+  foot / Théophile Gautier -- The rival ghosts / Brander Matthews -- The water ghost
+  of Harrowby Hall / by John Kendrick Bangs -- Back from that bourne / Anonymous --
+  The ghost-ship / by Richard Middleton -- The transplanted ghost / by Wallace Irwin
+  -- The last ghost in Harmony / by Nelson LLoyd -- The ghost of Miser Brimpson /
+  by Eden Phillpotts -- The haunted photograph / by Ruth McEnery Stuart -- The ghost
+  that got the button / by Will Adams -- The specter bridegroom / by Washington Irving
+  -- The specter of Tappington / compiled by Richard Barham -- In the barn / by Burges
+  Johnson -- A shady plot / by Elsie Brown -- The lady and the ghost / by Rose Cecil
+  O''Neill.'
+title: Humorous Ghost Stories
+url: http://www.gutenberg.org/ebooks/26950
