@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5885
     wikipedia: http://en.wikipedia.org/wiki/Dorothy_Scarborough
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26950#Humorous-Ghost-Stories
 gutenberg_issued: '2008-10-18'
 gutenberg_type: Text
 identifiers:
